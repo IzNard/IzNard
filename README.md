@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @IzNard
-- 👀 I’m just curious about coding
-- 🌱 I’m currently learning a lot of programming languages
+- 👋 Hi, I’m @IzNard, aka. vectxr.
+- 👀 I’m a physics and mathematics enthusiast, and a future aerospace engineer.
+- 🌱 I’m currently learning General Relativity and my next goal is Quantum Mechanics
 - 📫 How to reach me:  Email: izan.garcia.aguado@gmail.com.
 
 <!---
