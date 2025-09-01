@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IzNard, aka. vectxr.
 - 👀 I’m a physics and mathematics enthusiast, and a future aerospace engineer.
-- 🌱 I’m currently learning General Relativity and my next goal is Quantum Mechanics.
+- 🌱 I’m currently learning General Relativity and are starting to learn cybersecurity. My next goal after these two is Quantum Mechanics.
 - 📫 How to reach me:  Email: izan.garcia.aguado@gmail.com.
 
 <!---
