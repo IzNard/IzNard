@@ -1,7 +1,7 @@
 # vectxr.
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=a4a4a4&center=true&vCenter=true&width=400&lines=Python+Dev;Security+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=a4a4a4&center=true&vCenter=true&width=400&lines=Python+Dev;Cybersecurity+Specialist" alt="Typing SVG" />
 </div>
 
 ## About Me
