@@ -10,8 +10,8 @@ Cybersecurity Enthusiast, my passions are **coding**, **cybersecurity**, **physi
 
 ```python
 interests = ["Physics", "Mathematics", "Cybersecurity", "Python, Rust, C and C++"]
-currently_learning = "Pentesting"
-fun_fact = "I use artix linux + niri btw"
+currently_learning = "Web security"
+fun_fact = "I use arch linux + niri + noctalia btw"
 ```
 
 ## Stats
